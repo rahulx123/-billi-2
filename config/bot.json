@@ -1,0 +1,23 @@
+{
+  "colour": "BLUE",
+  "wrongcolour": "RED",
+  "footertext": "Billi",
+  "footericon": "https://cdn.discordapp.com/attachments/889793792041975828/892951771427786762/standard.gif",
+  "WelcomeImage " : "https://wallpaperscraft.com/wallpaper/city_buildings_silhouettes_212901",
+  "categories": {
+    "games": "🎮",
+    "config": "⚙️",
+    "automod" : "👍",
+    "giveaway": "🎉",
+    "information": "📻",
+    "music": "🎵",
+    "musicfilter": "🎼",
+    "owner": "👑",
+    "leveling": "🎂",
+    "ticket": "🎫",
+    "utility": ":comet:",
+    "welcome_leave": "✨",
+    "rr_roles": "🎁",
+    "yt_poster" : "❤"
+  }
+}
